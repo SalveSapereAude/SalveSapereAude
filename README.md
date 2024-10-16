@@ -1,4 +1,7 @@
-![Logo](./images/logo-icon.jpg)
+<p align="center">
+<img src="./images/logo-icon.jpg">
+</p>
+
 
 ```                                                                                                                  
       #######                                                                ##                        ##            
